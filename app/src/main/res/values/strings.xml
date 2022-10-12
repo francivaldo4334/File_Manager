@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">File Manager</string>
+    <string name="message_permission_requere">Store permission is requeres, please allow from settings</string>
+</resources>
